@@ -1,0 +1,10 @@
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\bin\Debug\servotester.exe.config
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\bin\Debug\servotester.exe
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\bin\Debug\servotester.pdb
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\bin\Debug\servotester.xml
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\obj\Debug\servotester.frmMain.resources
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\obj\Debug\servotester.Resources.resources
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\obj\Debug\servotester.vbproj.GenerateResource.Cache
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\obj\Debug\servotester.exe
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\obj\Debug\servotester.xml
+D:\Documents\GitHub\ServoTester-VB-Arduino\ServoTester_VB\arduinovb\obj\Debug\servotester.pdb
